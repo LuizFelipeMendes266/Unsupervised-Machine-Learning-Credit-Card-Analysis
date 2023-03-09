@@ -67,5 +67,4 @@ To install the required libraries, please run the following command in your term
 pip install pandas numpy matplotlib seaborn scikit-learn scipy
 
 ## References
-
-https://www.kaggle.com/datasets/blastchar/telco-customer-churn
+https://www.kaggle.com/datasets/aryashah2k/credit-card-customer-data
