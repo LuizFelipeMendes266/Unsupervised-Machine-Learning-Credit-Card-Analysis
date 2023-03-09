@@ -48,18 +48,23 @@ When observing the clusters and the description of each variable, we have some v
 ## Usage
 
 ### Libraries Used
-- pandas: data manipulation library used to read, clean and manipulate the dataset.
-- numpy: numerical computing library used to perform mathematical operations on the data.
-- sklearn: machine learning library used to train and evaluate models.
-- bayesSearchCv: hyperparameter optimization library used to optimize the models.
-- feature_engine: feature engineering library used to encode categorical variables.
-- pandas_profiling: exploratory data analysis library used to generate a report of the dataset.
+- `pandas`: data manipulation library used to read, clean and manipulate the dataset.
+- `numpy`: numerical computing library used to perform mathematical operations on the data.
+- `matplotlib`: plotting library used to create visualizations.
+- `seaborn`: plotting library based on matplotlib used to create attractive visualizations.
+- `sklearn`: machine learning library used to train and evaluate models.
+- `scipy`: library used for scientific and technical computing.
+- `scipy.cluster.hierarchy`: library used for hierarchical clustering.
+- `sklearn.cluster`: library used for clustering algorithms.
+- `sklearn.neighbors`: library used for unsupervised nearest neighbors algorithms.
+- `sklearn.decomposition`: library used for feature dimensionality reduction.
+- `metrics`: library used to evaluate models.
+- `StandardScaler`: library used to standardize the data.
 
 ### Installation
+To install the required libraries, please run the following command in your terminal:
 
-To install the required libraries, you can run the following command:
-
-pip install pandas numpy scikit-learn bayesian-optimization feature-engine pandas-profiling
+pip install pandas numpy matplotlib seaborn scikit-learn scipy
 
 ## References
 
