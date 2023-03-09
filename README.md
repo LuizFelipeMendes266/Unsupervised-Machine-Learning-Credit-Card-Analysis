@@ -38,9 +38,9 @@ Before defining the profiles, it is important to mention that the hierarchical c
 
 When observing the clusters and the description of each variable, we have some variables that show differences between populations, as seen in the boxplots. Based on this, we can create three customer profiles:
 
- ***- Cluster 0 consists of customers with low to medium credit limits, a medium number of credit cards, high bank visits, low online visits, and low phone calls made.
- - Cluster 1 consists of customers with low credit limits, a low number of credit cards, low bank visits, high online visits, and phone calls made. 
- - Cluster 2 consists of customers with high credit limits, a high number of credit cards, low bank visits, high online visits, and low phone calls made.***
+ ***- Cluster 0 consists of customers with low to medium credit limits, a medium number of credit cards, high bank visits, low online visits, and low phone calls made. ***
+ *** - Cluster 1 consists of customers with low credit limits, a low number of credit cards, low bank visits, high online visits, and phone calls made.  ***
+  ***- Cluster 2 consists of customers with high credit limits, a high number of credit cards, low bank visits, high online visits, and low phone calls made.***
 
 
 
